@@ -34,8 +34,6 @@ CREATE TABLE  (
 );
 ```
 
-Quer ver como está ficando? Acesse [**AQUI**]()
-
 Projeto desenvolvido durante o Bootcamp Cloud DevOps Experience - Banco Carrefour, fornecido pela [**DIO**](https://www.dio.me/)
 
 By Paucinha!!!
